@@ -1,4 +1,4 @@
-﻿class Exercicio 1
+﻿class Exercicio1
 {
     static void Main(string[] args)
     {
