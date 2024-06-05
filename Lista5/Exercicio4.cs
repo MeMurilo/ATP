@@ -1,4 +1,4 @@
-class Exercicio5
+class Exercicio4
 {
     static void PreencherVetores(out int[] X, out int[] Y)
     {
